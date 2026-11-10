@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker",
+  "description": "A professional personal finance management application with budgets, savings goals, analytics, and recurring transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
